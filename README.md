@@ -31,13 +31,6 @@ Nick's and Kate's audiobooks are additionally used to see if the model can learn
 
 You can do STEP 2 and 3 at the same time, if you have more than one gpu card.
 
-## Training Curves
-
-<img src="fig/training_curves.png">
-
-## Attention Plot
-<img src="fig/attention.gif">
-
 ## Sample Synthesis
 I generate speech samples based on [Harvard Sentences](http://www.cs.columbia.edu/~hgs/audio/harvard.html) as the original paper does. It is already included in the repo.
 
